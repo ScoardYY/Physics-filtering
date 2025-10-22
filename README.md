@@ -1,2 +1,1 @@
-# Physics-filtering
-Physics filtering favors the generalization of robot learning
+The source code will be released public soon.
